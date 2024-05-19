@@ -1,1 +1,1 @@
-This is my final-term exam on Web-Based Applications. The main objective is to show the data from Django Rest Framework API and use Nodejs as the front end.
+This is my mid-term exam project on Web-Based Applications. The main objective is to get data from Django MySQL Database and show it in the e-commerce template
