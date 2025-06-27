@@ -19,7 +19,7 @@ The goal is to connect Django with a MySQL database and render dynamic content i
 
 - **Framework:** Django  
 - **Database:** MySQL  
-- **Frontend:** HTML, CSS, SCSS, JavaScript  
+- **Frontend:** HTML, CSS
 - **Language:** Python  
 
 ---
@@ -46,13 +46,13 @@ env\Scripts\activate         # Windows
 ```bash
 pip install -r requirements.txt
 ```
-⚠️ If you don’t have a requirements.txt, run this:
+⚠️ If you don’t have a `requirements.txt`, run this:
 ```bash
 pip install django mysqlclient
 ```
 
 ### 4. Configure database (MySQL)
-Make sure MySQL is running and update the DATABASES section in Web/Web/settings.py:
+Make sure MySQL is running and update the `DATABASES` section in `Web/Web/settings.py`:
 ```python
 DATABASES = {
     'default': {
@@ -88,7 +88,7 @@ http://127.0.0.1:8000/
 ```
 
 ## 🧪 Tips
-- 🔐 Admin Panel: visit http://127.0.0.1:8000/admin/ to manage data
+- 🔐 Admin Panel: visit `http://127.0.0.1:8000/admin/` to manage data
 - 🧱 Use the admin to add/edit product entries
 - 🛠️ For MySQL issues, ensure port 3306 is open and user has access
 
