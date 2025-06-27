@@ -116,6 +116,6 @@ This project was created as part of a mid-term exam for the Web-Based Applicatio
 - GitHub: @Lunardy2509
 - Email: ferdilunardy@gmail.com
 
-```markdown
 ---
+
 Let me know if you'd like help generating a `requirements.txt`, adding badges (like build status or tech stack), or uploading screenshots to include in this README.
