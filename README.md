@@ -113,7 +113,7 @@ Web/
 This project was created as part of a mid-term exam for the Web-Based Applications course. It serves as an introduction to full-stack web development with Django and SQL databases.
 
 ## 📬 Contact
-- GitHub: @Lunardy2509
+- GitHub: [@Lunardy2509](https://github.com/Lunardy2509)
 - Email: ferdilunardy@gmail.com
 
 ---
