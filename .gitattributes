@@ -1,0 +1,24 @@
+# 🌐 Force Python for Django-related files
+*.py linguist-language=Python
+
+# 🛒 Mark templates, static assets as documentation
+templates/** linguist-documentation
+static/** linguist-documentation
+
+# 🚫 Exclude migrations if you want to hide auto-generated code
+*/migrations/** linguist-vendored
+
+# 📄 Documentation folder
+/docs/** linguist-documentation
+documentation/** linguist-documentation
+
+# 🖼️ Ignore media files and exports
+/media/** linguist-generated
+*.svg linguist-generated
+*.png linguist-generated
+*.jpg linguist-generated
+*.ico linguist-generated
+
+# 🗃️ Ignore JSON dumps, YAML config (optional)
+/*.json linguist-generated
+/*.yml linguist-generated
